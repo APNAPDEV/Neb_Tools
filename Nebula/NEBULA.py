@@ -1,5 +1,5 @@
 # ==============================================================================
-# Proyecto: HORIZON
+# Proyecto: Nebula
 # Autor: APNAPDEV
 # Repositorio Oficial: https://github.com/APNAPDEV/Neb_Tools
 # Licencia: GNU GPLv3
